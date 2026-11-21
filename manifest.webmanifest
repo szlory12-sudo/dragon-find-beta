@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Find BETA",
+  "short_name": "Dragon Find",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "description": "Dragon Find multi-platform video search hub beta",
+  "icons": [{"src":"dragon-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
